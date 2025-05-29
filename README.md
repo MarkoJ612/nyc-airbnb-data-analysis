@@ -1,5 +1,4 @@
 # nyc-airbnb-data-analysis
-Exploratory Data Analysis of Airbnb NYC 2019 dataset. Visualized average prices by borough, top neighborhoods, and room types using pandas, seaborn, and matplotlib.
 🗽 NYC Airbnb Data Analysis (2019)
 Ovaj projekat predstavlja jednostavnu eksploratornu analizu Airbnb podataka za Njujork iz 2019. godine. Korišćeni su alati kao što su pandas, seaborn i matplotlib za obradu podataka i vizualizaciju ključnih uvida.
 Podaci su preuzeti sa Kaggle-a i sadrže informacije o više od 48.000 Airbnb oglasa u Njujorku.
